@@ -1,0 +1,16 @@
+:root {
+  /* fonts */
+  --font-josefin-sans: "Josefin Sans";
+
+  /* font sizes */
+  --font-size-sm: 24px;
+  --font-size-base: 36px;
+
+  /* Colors */
+  --color-gray: #3a4f7a;
+  --color-pink-100: #ffc6d3;
+  --color-pink-200: #fea1bf;
+
+  /* border radiuses */
+  --br-md: 12px;
+}
